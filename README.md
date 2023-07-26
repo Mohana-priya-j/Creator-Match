@@ -1,1 +1,5 @@
-# Creator-Match
+# Creator-Match-Project
+
+- The rise of social media and digital marketing has transformed the advertising landscape, with content creators and influencers playing a significant role in promoting products and services. This project aims to develop Creator Match, a full-stack platform that facilitates direct connections between businesses and content creators, enabling efficient and targeted product advertising.
+- For businesses looking to advertise their products or services, it's important to reach the audience. Content creators play an important role in reaching the audience, by producing high-quality content that engages with the audience.  The platform will leverage modern technologies and frameworks to provide a seamless experience for both businesses and creators, streamlining the collaboration process and maximizing the impact of influencer marketing campaigns.
+- This thesis presents a comprehensive analysis of the development process, including the design, implementation, and evaluation of the Creator Match platform, highlighting its impact on the advertising industry and the potential for future enhancements.
